@@ -1,0 +1,31 @@
+# Generated images (not committed to git)
+generated_images/
+
+# Processed images (not committed to git)
+processed_images/
+
+# Credentials file (keep secret!)
+config/credentials.yaml
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
